@@ -1,0 +1,5 @@
+﻿  Ex Operation.c
+C:\Users\Owner\source\repos\SW교육 4월 15일\SW교육 4월 15일\Ex Operation.c(52,11): warning C4129: '/': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\Owner\source\repos\SW교육 4월 15일\SW교육 4월 15일\Ex Operation.c(60,11): warning C4129: '%': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\Owner\source\repos\SW교육 4월 15일\SW교육 4월 15일\Ex Operation.c(60,11): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '\xec'이(가) 있습니다.
+  SW교육 4월 15일.vcxproj -> C:\Users\Owner\source\repos\SW교육 4월 15일\x64\Debug\SW교육 4월 15일.exe

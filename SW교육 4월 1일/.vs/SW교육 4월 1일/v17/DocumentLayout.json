@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SW \uAD50\uC721\\SW\uAD50\uC721 4\uC6D4 1\uC77C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67A920A9-AF8D-49E4-A926-62F885682A4E}|SW\uAD50\uC721 4\uC6D4 1\uC77C\\SW\uAD50\uC721 4\uC6D4 1\uC77C.vcxproj|C:\\Users\\Owner\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SW \uAD50\uC721\\SW\uAD50\uC721 4\uC6D4 1\uC77C\\SW\uAD50\uC721 4\uC6D4 1\uC77C\\Variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67A920A9-AF8D-49E4-A926-62F885682A4E}|SW\uAD50\uC721 4\uC6D4 1\uC77C\\SW\uAD50\uC721 4\uC6D4 1\uC77C.vcxproj|solutionrelative:SW\uAD50\uC721 4\uC6D4 1\uC77C\\Variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A920A9-AF8D-49E4-A926-62F885682A4E}|SW\uAD50\uC721 4\uC6D4 1\uC77C\\SW\uAD50\uC721 4\uC6D4 1\uC77C.vcxproj|C:\\Users\\Owner\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SW \uAD50\uC721\\SW\uAD50\uC721 4\uC6D4 1\uC77C\\SW\uAD50\uC721 4\uC6D4 1\uC77C\\Hello World.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67A920A9-AF8D-49E4-A926-62F885682A4E}|SW\uAD50\uC721 4\uC6D4 1\uC77C\\SW\uAD50\uC721 4\uC6D4 1\uC77C.vcxproj|solutionrelative:SW\uAD50\uC721 4\uC6D4 1\uC77C\\Hello World.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Variable.c",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SW \uAD50\uC721\\SW\uAD50\uC721 4\uC6D4 1\uC77C\\SW\uAD50\uC721 4\uC6D4 1\uC77C\\Variable.c",
+              "RelativeDocumentMoniker": "SW\uAD50\uC721 4\uC6D4 1\uC77C\\Variable.c",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SW \uAD50\uC721\\SW\uAD50\uC721 4\uC6D4 1\uC77C\\SW\uAD50\uC721 4\uC6D4 1\uC77C\\Variable.c",
+              "RelativeToolTip": "SW\uAD50\uC721 4\uC6D4 1\uC77C\\Variable.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-05T00:05:15.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hello World.c",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SW \uAD50\uC721\\SW\uAD50\uC721 4\uC6D4 1\uC77C\\SW\uAD50\uC721 4\uC6D4 1\uC77C\\Hello World.c",
+              "RelativeDocumentMoniker": "SW\uAD50\uC721 4\uC6D4 1\uC77C\\Hello World.c",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SW \uAD50\uC721\\SW\uAD50\uC721 4\uC6D4 1\uC77C\\SW\uAD50\uC721 4\uC6D4 1\uC77C\\Hello World.c",
+              "RelativeToolTip": "SW\uAD50\uC721 4\uC6D4 1\uC77C\\Hello World.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-04T11:44:23.518Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

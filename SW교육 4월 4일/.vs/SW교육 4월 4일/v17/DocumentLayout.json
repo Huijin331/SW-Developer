@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\source\\repos\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{407792B9-D6F4-4165-BD46-AFBA5EA0EFF6}|SW\uAD50\uC721 4\uC6D4 4\uC77C\\SW\uAD50\uC721 4\uC6D4 4\uC77C.vcxproj|C:\\Users\\Owner\\source\\repos\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\ASCII.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{407792B9-D6F4-4165-BD46-AFBA5EA0EFF6}|SW\uAD50\uC721 4\uC6D4 4\uC77C\\SW\uAD50\uC721 4\uC6D4 4\uC77C.vcxproj|solutionrelative:SW\uAD50\uC721 4\uC6D4 4\uC77C\\ASCII.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407792B9-D6F4-4165-BD46-AFBA5EA0EFF6}|SW\uAD50\uC721 4\uC6D4 4\uC77C\\SW\uAD50\uC721 4\uC6D4 4\uC77C.vcxproj|C:\\Users\\Owner\\source\\repos\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\Operation4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{407792B9-D6F4-4165-BD46-AFBA5EA0EFF6}|SW\uAD50\uC721 4\uC6D4 4\uC77C\\SW\uAD50\uC721 4\uC6D4 4\uC77C.vcxproj|solutionrelative:SW\uAD50\uC721 4\uC6D4 4\uC77C\\Operation4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407792B9-D6F4-4165-BD46-AFBA5EA0EFF6}|SW\uAD50\uC721 4\uC6D4 4\uC77C\\SW\uAD50\uC721 4\uC6D4 4\uC77C.vcxproj|C:\\Users\\Owner\\source\\repos\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\Ex Drink.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{407792B9-D6F4-4165-BD46-AFBA5EA0EFF6}|SW\uAD50\uC721 4\uC6D4 4\uC77C\\SW\uAD50\uC721 4\uC6D4 4\uC77C.vcxproj|solutionrelative:SW\uAD50\uC721 4\uC6D4 4\uC77C\\Ex Drink.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407792B9-D6F4-4165-BD46-AFBA5EA0EFF6}|SW\uAD50\uC721 4\uC6D4 4\uC77C\\SW\uAD50\uC721 4\uC6D4 4\uC77C.vcxproj|C:\\Users\\Owner\\source\\repos\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\If Ex 1330.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{407792B9-D6F4-4165-BD46-AFBA5EA0EFF6}|SW\uAD50\uC721 4\uC6D4 4\uC77C\\SW\uAD50\uC721 4\uC6D4 4\uC77C.vcxproj|solutionrelative:SW\uAD50\uC721 4\uC6D4 4\uC77C\\If Ex 1330.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407792B9-D6F4-4165-BD46-AFBA5EA0EFF6}|SW\uAD50\uC721 4\uC6D4 4\uC77C\\SW\uAD50\uC721 4\uC6D4 4\uC77C.vcxproj|C:\\Users\\Owner\\source\\repos\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\Review.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{407792B9-D6F4-4165-BD46-AFBA5EA0EFF6}|SW\uAD50\uC721 4\uC6D4 4\uC77C\\SW\uAD50\uC721 4\uC6D4 4\uC77C.vcxproj|solutionrelative:SW\uAD50\uC721 4\uC6D4 4\uC77C\\Review.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ASCII.c",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\ASCII.c",
+              "RelativeDocumentMoniker": "SW\uAD50\uC721 4\uC6D4 4\uC77C\\ASCII.c",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\ASCII.c",
+              "RelativeToolTip": "SW\uAD50\uC721 4\uC6D4 4\uC77C\\ASCII.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-05T06:17:46.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operation4.c",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\Operation4.c",
+              "RelativeDocumentMoniker": "SW\uAD50\uC721 4\uC6D4 4\uC77C\\Operation4.c",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\Operation4.c",
+              "RelativeToolTip": "SW\uAD50\uC721 4\uC6D4 4\uC77C\\Operation4.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-05T05:49:01.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ex Drink.c",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\Ex Drink.c",
+              "RelativeDocumentMoniker": "SW\uAD50\uC721 4\uC6D4 4\uC77C\\Ex Drink.c",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\Ex Drink.c",
+              "RelativeToolTip": "SW\uAD50\uC721 4\uC6D4 4\uC77C\\Ex Drink.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-05T05:05:53.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "If Ex 1330.c",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\If Ex 1330.c",
+              "RelativeDocumentMoniker": "SW\uAD50\uC721 4\uC6D4 4\uC77C\\If Ex 1330.c",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\If Ex 1330.c",
+              "RelativeToolTip": "SW\uAD50\uC721 4\uC6D4 4\uC77C\\If Ex 1330.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-05T04:58:23.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Review.c",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\Review.c",
+              "RelativeDocumentMoniker": "SW\uAD50\uC721 4\uC6D4 4\uC77C\\Review.c",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\SW\uAD50\uC721 4\uC6D4 4\uC77C\\Review.c",
+              "RelativeToolTip": "SW\uAD50\uC721 4\uC6D4 4\uC77C\\Review.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-04T11:48:55.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
