@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\source\\repos\\SW\uAD50\uC721 4\uC6D4 18\uC77C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA52A5F-DDD4-4506-B515-CD173AB7C7F5}|SW\uAD50\uC721 4\uC6D4 18\uC77C\\SW\uAD50\uC721 4\uC6D4 18\uC77C.vcxproj|C:\\Users\\Owner\\source\\repos\\SW\uAD50\uC721 4\uC6D4 18\uC77C\\SW\uAD50\uC721 4\uC6D4 18\uC77C\\EX Factorial.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BA52A5F-DDD4-4506-B515-CD173AB7C7F5}|SW\uAD50\uC721 4\uC6D4 18\uC77C\\SW\uAD50\uC721 4\uC6D4 18\uC77C.vcxproj|solutionrelative:SW\uAD50\uC721 4\uC6D4 18\uC77C\\EX Factorial.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA52A5F-DDD4-4506-B515-CD173AB7C7F5}|SW\uAD50\uC721 4\uC6D4 18\uC77C\\SW\uAD50\uC721 4\uC6D4 18\uC77C.vcxproj|C:\\Users\\Owner\\source\\repos\\SW\uAD50\uC721 4\uC6D4 18\uC77C\\SW\uAD50\uC721 4\uC6D4 18\uC77C\\Call By.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BA52A5F-DDD4-4506-B515-CD173AB7C7F5}|SW\uAD50\uC721 4\uC6D4 18\uC77C\\SW\uAD50\uC721 4\uC6D4 18\uC77C.vcxproj|solutionrelative:SW\uAD50\uC721 4\uC6D4 18\uC77C\\Call By.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA52A5F-DDD4-4506-B515-CD173AB7C7F5}|SW\uAD50\uC721 4\uC6D4 18\uC77C\\SW\uAD50\uC721 4\uC6D4 18\uC77C.vcxproj|C:\\Users\\Owner\\source\\repos\\SW\uAD50\uC721 4\uC6D4 18\uC77C\\SW\uAD50\uC721 4\uC6D4 18\uC77C\\Geaghe.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BA52A5F-DDD4-4506-B515-CD173AB7C7F5}|SW\uAD50\uC721 4\uC6D4 18\uC77C\\SW\uAD50\uC721 4\uC6D4 18\uC77C.vcxproj|solutionrelative:SW\uAD50\uC721 4\uC6D4 18\uC77C\\Geaghe.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EX Factorial.c",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\SW\uAD50\uC721 4\uC6D4 18\uC77C\\SW\uAD50\uC721 4\uC6D4 18\uC77C\\EX Factorial.c",
+              "RelativeDocumentMoniker": "SW\uAD50\uC721 4\uC6D4 18\uC77C\\EX Factorial.c",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\SW\uAD50\uC721 4\uC6D4 18\uC77C\\SW\uAD50\uC721 4\uC6D4 18\uC77C\\EX Factorial.c",
+              "RelativeToolTip": "SW\uAD50\uC721 4\uC6D4 18\uC77C\\EX Factorial.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-18T01:31:42.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Geaghe.c",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\SW\uAD50\uC721 4\uC6D4 18\uC77C\\SW\uAD50\uC721 4\uC6D4 18\uC77C\\Geaghe.c",
+              "RelativeDocumentMoniker": "SW\uAD50\uC721 4\uC6D4 18\uC77C\\Geaghe.c",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\SW\uAD50\uC721 4\uC6D4 18\uC77C\\SW\uAD50\uC721 4\uC6D4 18\uC77C\\Geaghe.c",
+              "RelativeToolTip": "SW\uAD50\uC721 4\uC6D4 18\uC77C\\Geaghe.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-18T01:14:12.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Call By.c",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\SW\uAD50\uC721 4\uC6D4 18\uC77C\\SW\uAD50\uC721 4\uC6D4 18\uC77C\\Call By.c",
+              "RelativeDocumentMoniker": "SW\uAD50\uC721 4\uC6D4 18\uC77C\\Call By.c",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\SW\uAD50\uC721 4\uC6D4 18\uC77C\\SW\uAD50\uC721 4\uC6D4 18\uC77C\\Call By.c",
+              "RelativeToolTip": "SW\uAD50\uC721 4\uC6D4 18\uC77C\\Call By.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-18T00:24:03.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
